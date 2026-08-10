@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c36c71f15b6245488529e06e976157d, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: Assembly-CSharp::AudioData
+  music:
+  - sceneName: MainMenu
+    tracks:
+    - name: BackgroundMusic
+      clip: {fileID: 8300000, guid: a8cda88afb3edc2419b8b7b0974f616e, type: 3}
+      volume: 1
+      loop: 1
+  sfx:
+  - sceneName: MainMenu
+    clips:
+    - name: Button
+      clip: {fileID: 8300000, guid: 4149d8469ab15d641a50a358dc4de3f8, type: 3}
+      volume: 1
+      pitch: 1.5
+  - sceneName: ActivityWithLuna
+    clips:
+    - name: Corngrind
+      clip: {fileID: 8300000, guid: 7b87ceae5043f2e44a1d3c00aab0ea96, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Swipe
+      clip: {fileID: 8300000, guid: af6d76998d1a9ba41b396a82a6af0776, type: 3}
+      volume: 1
+      pitch: 2
+    - name: Panelpop2
+      clip: {fileID: 8300000, guid: 7bc9d6c5d96f8ad4bbed70ceee04647b, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Typing
+      clip: {fileID: 8300000, guid: 6e8f533e77a29604291d04e27a723f97, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Tada
+      clip: {fileID: 8300000, guid: 0b3de6c7297ce9148945c70c9b2f679f, type: 3}
+      volume: 1
+      pitch: 1
+  - sceneName: CleaningPigPan
+    clips:
+    - name: Hammer
+      clip: {fileID: 8300000, guid: d8de3f20eb69be24da2ee8b62480942f, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Mopping
+      clip: {fileID: 8300000, guid: 9e847d037c2cc474c86391c9aabc689f, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Sweeping
+      clip: {fileID: 8300000, guid: 662f7d1237c28df41abd743bddef2584, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: DiggingFork
+      clip: {fileID: 8300000, guid: 8d22504b0c1474f449089889af297036, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: StarSparkle
+      clip: {fileID: 8300000, guid: 23e86afaeca681c4fa8549575ead6ced, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: FinalSparkle
+      clip: {fileID: 8300000, guid: 34f006749deff8b43b8521e8f570fa97, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: PigSlide
+      clip: {fileID: 8300000, guid: 3520ee0802b16304b9cf50a2ec019635, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Typing
+      clip: {fileID: 8300000, guid: 6e8f533e77a29604291d04e27a723f97, type: 3}
+      volume: 1
+      pitch: 1.5
+  - sceneName: CookingSausages
+    clips:
+    - name: Cooked
+      clip: {fileID: 8300000, guid: 8b331b1965984df4db57746f5b3bc36f, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Eating
+      clip: {fileID: 8300000, guid: ff373e7b2c3445645ac392abf87af4ca, type: 3}
+      volume: 0
+      pitch: 0
+    - name: Grilling
+      clip: {fileID: 8300000, guid: f7f1ef24b8ae4e94ba5c8987998032bd, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Satisfy1
+      clip: {fileID: 8300000, guid: b379ed88252c1094a8a69ecaccd543d6, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Satisfy2
+      clip: {fileID: 8300000, guid: ac6e5d9f2427c7f4bba836b0869c81fa, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Satisfy3
+      clip: {fileID: 8300000, guid: 05858b654fe33384fa9d4d57df31bc5b, type: 3}
+      volume: 1
+      pitch: 2
+    - name: TrashBin
+      clip: {fileID: 8300000, guid: 1f04ab80a9b82114ca11009aa88e0abf, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: ToriLaugh
+      clip: {fileID: 8300000, guid: f4d10f50659115947943a9a6103c73c8, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Walking
+      clip: {fileID: 8300000, guid: 115a218df720bda49ae7d20504379a58, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Squeez
+      clip: {fileID: 8300000, guid: 0507d5fb2f513c74d928df47dcaea8b3, type: 3}
+      volume: 1
+      pitch: 1.5
+  - sceneName: CornPlanting
+    clips:
+    - name: Cornwalk
+      clip: {fileID: 8300000, guid: f03be6031dc7bbe409929cf09e6df82d, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Corngrow
+      clip: {fileID: 8300000, guid: 4f2ded13e01bee74eb1ea668061b6f60, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Corndrop
+      clip: {fileID: 8300000, guid: 4dee2e732cae50d4d81bb59e40162913, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Corncollect
+      clip: {fileID: 8300000, guid: 062361d12690e3747917115f8a62682f, type: 3}
+      volume: 1
+      pitch: 1.5
+  - sceneName: ObstacleRun
+    clips:
+    - name: Vitory
+      clip: {fileID: 8300000, guid: 0b3de6c7297ce9148945c70c9b2f679f, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Jump
+      clip: {fileID: 8300000, guid: 12f3dd5de5de48b4d8c22b3245ffec05, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Start
+      clip: {fileID: 8300000, guid: ae8462ebbf8466044b617769a023f75e, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Lose
+      clip: {fileID: 8300000, guid: bd106a702684d6d4188134715c2c38d9, type: 3}
+      volume: 1
+      pitch: 2
+    - name: go
+      clip: {fileID: 8300000, guid: 9d2c07e0814d40e42bda55da62627acc, type: 3}
+      volume: 1
+      pitch: 2
+    - name: Bell
+      clip: {fileID: 8300000, guid: cb719bc4c93899b42bf5a1c7f6fed8b7, type: 3}
+      volume: 1
+      pitch: 2
+  - sceneName: Painting
+    clips:
+    - name: ColorDrop
+      clip: {fileID: 8300000, guid: d816132041124164690e084cafdaaf57, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: PhotoTaken
+      clip: {fileID: 8300000, guid: 8f6f0064331b7d24299f7858b29f4dfb, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: PicPopUp
+      clip: {fileID: 8300000, guid: 1b3f08126701d844bbd7b97eaeed432a, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Congratulation
+      clip: {fileID: 8300000, guid: d2eb93df962ddfe488bf343a09f04e59, type: 3}
+      volume: 1
+      pitch: 1.5
+  - sceneName: PorkThePigGrillingActivity
+    clips:
+    - name: Cooked
+      clip: {fileID: 8300000, guid: 8b331b1965984df4db57746f5b3bc36f, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Eating
+      clip: {fileID: 8300000, guid: ff373e7b2c3445645ac392abf87af4ca, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Grilling
+      clip: {fileID: 8300000, guid: f7f1ef24b8ae4e94ba5c8987998032bd, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Satisfy1
+      clip: {fileID: 8300000, guid: b379ed88252c1094a8a69ecaccd543d6, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Satisfy2
+      clip: {fileID: 8300000, guid: ac6e5d9f2427c7f4bba836b0869c81fa, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Satisfy3
+      clip: {fileID: 8300000, guid: 05858b654fe33384fa9d4d57df31bc5b, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: TrashBin
+      clip: {fileID: 8300000, guid: 1f04ab80a9b82114ca11009aa88e0abf, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: PigLaugh
+      clip: {fileID: 8300000, guid: f4d10f50659115947943a9a6103c73c8, type: 3}
+      volume: 0.5
+      pitch: 1.5
+    - name: Walking
+      clip: {fileID: 8300000, guid: 115a218df720bda49ae7d20504379a58, type: 3}
+      volume: 1
+      pitch: 1.5
+  - sceneName: RacingGame
+    clips:
+    - name: Tractor
+      clip: {fileID: 8300000, guid: 80aaadbb29cc78047a462f65de6d86dc, type: 3}
+      volume: 0.6
+      pitch: 0.6
+    - name: Victory
+      clip: {fileID: 8300000, guid: c9f75ae832217e04ba84d80aadb02119, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Crush
+      clip: {fileID: 8300000, guid: 7fae0fde71aa94147be6bf13d7c1870d, type: 3}
+      volume: 1
+      pitch: 1
+    - name: count
+      clip: {fileID: 8300000, guid: ae8462ebbf8466044b617769a023f75e, type: 3}
+      volume: 1
+      pitch: 1
+    - name: go
+      clip: {fileID: 8300000, guid: 9d2c07e0814d40e42bda55da62627acc, type: 3}
+      volume: 1
+      pitch: 1
+    - name: tada
+      clip: {fileID: 8300000, guid: 0b3de6c7297ce9148945c70c9b2f679f, type: 3}
+      volume: 1
+      pitch: 1
+  - sceneName: Restaurant
+    clips:
+    - name: Cook
+      clip: {fileID: 8300000, guid: a731f39101b9d7c46961952ddfc63f07, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Done
+      clip: {fileID: 8300000, guid: dd743ce923d679f4daf02dbd94585b83, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Pop
+      clip: {fileID: 8300000, guid: 062361d12690e3747917115f8a62682f, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: walking
+      clip: {fileID: 8300000, guid: 1ac05d795e7000941859caada8473c79, type: 3}
+      volume: 1
+      pitch: 2
+    - name: tada
+      clip: {fileID: 8300000, guid: 0b3de6c7297ce9148945c70c9b2f679f, type: 3}
+      volume: 1
+      pitch: 2
+  - sceneName: SurpiseGame
+    clips:
+    - name: Happy
+      clip: {fileID: 8300000, guid: 4b36b1651ab42c5438d5612f282b4324, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Eating
+      clip: {fileID: 8300000, guid: 5513b3a9a09dd6e479d8d23f50d2a2cb, type: 3}
+      volume: 1
+      pitch: 1
+    - name: lvldone
+      clip: {fileID: 8300000, guid: dd743ce923d679f4daf02dbd94585b83, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Openlid
+      clip: {fileID: 8300000, guid: a7a678636abe5cc45a268f30edf2cf44, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: whoosh
+      clip: {fileID: 8300000, guid: af6d76998d1a9ba41b396a82a6af0776, type: 3}
+      volume: 1
+      pitch: 1
+    - name: Spicy
+      clip: {fileID: 8300000, guid: 42a42c70ca6c07444bf4753248ff3347, type: 3}
+      volume: 1
+      pitch: 0.6
+  - sceneName: TruckRepair
+    clips:
+    - name: NoNo
+      clip: {fileID: 8300000, guid: 6bf2a494c5074144291116db4f186aa8, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: Repair
+      clip: {fileID: 8300000, guid: ca6b15a2053964d418bde6209acd89a9, type: 3}
+      volume: 1
+      pitch: 1.5
+    - name: DogLaugh
+      clip: {fileID: 8300000, guid: f4d10f50659115947943a9a6103c73c8, type: 3}
+      volume: 1
+      pitch: 1.5

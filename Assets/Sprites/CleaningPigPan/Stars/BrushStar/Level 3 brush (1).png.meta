@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 309b32d60f90b7e4db065dd66b8b8f70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 886170756228036089
+    second: Level 3 brush (1)_0
+  - first:
+      213: 9009774746939507528
+    second: Level 3 brush (1)_1
+  - first:
+      213: -2627979283694549094
+    second: Level 3 brush (1)_2
+  - first:
+      213: 2031439092294878344
+    second: Level 3 brush (1)_3
+  - first:
+      213: -6025990965299140148
+    second: Level 3 brush (1)_4
+  - first:
+      213: 2148173638266271040
+    second: Level 3 brush (1)_5
+  - first:
+      213: 6784419326340204913
+    second: Level 3 brush (1)_6
+  - first:
+      213: -5010721909794564143
+    second: Level 3 brush (1)_7
+  - first:
+      213: 6025528313903372327
+    second: Level 3 brush (1)_8
+  - first:
+      213: -4874854476379168081
+    second: Level 3 brush (1)_9
+  - first:
+      213: -6969158643428036254
+    second: Level 3 brush (1)_10
+  - first:
+      213: -9075409026151612441
+    second: Level 3 brush (1)_11
+  - first:
+      213: 6032109670997222540
+    second: Level 3 brush (1)_12
+  - first:
+      213: 3996830240287829381
+    second: Level 3 brush (1)_13
+  - first:
+      213: 7309973051723861471
+    second: Level 3 brush (1)_14
+  - first:
+      213: -1970432138589871914
+    second: Level 3 brush (1)_15
+  - first:
+      213: -787351487020028126
+    second: Level 3 brush (1)_16
+  - first:
+      213: -3678519826547435102
+    second: Level 3 brush (1)_17
+  - first:
+      213: 5662653266939466433
+    second: Level 3 brush (1)_18
+  - first:
+      213: 3436309832004708768
+    second: Level 3 brush (1)_19
+  - first:
+      213: -1600209496240041578
+    second: Level 3 brush (1)_20
+  - first:
+      213: -7989419510114923631
+    second: Level 3 brush (1)_21
+  - first:
+      213: 4805838848315644720
+    second: Level 3 brush (1)_22
+  - first:
+      213: -442813663776320909
+    second: Level 3 brush (1)_23
+  - first:
+      213: 9191326581283465544
+    second: Level 3 brush (1)_24
+  - first:
+      213: -7454019948334526447
+    second: Level 3 brush (1)_25
+  - first:
+      213: -3914301164969445788
+    second: Level 3 brush (1)_26
+  - first:
+      213: 5817001349011564814
+    second: Level 3 brush (1)_27
+  - first:
+      213: -4963567628466549476
+    second: Level 3 brush (1)_28
+  - first:
+      213: -1481190680014961799
+    second: Level 3 brush (1)_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level 3 brush (1)_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 449
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5bf4f8b9f4c4c00800000000000000
+      internalID: 886170756228036089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 451
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434d918566290d70800000000000000
+      internalID: 9009774746939507528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 425
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970d4ed3ca878bd0800000000000000
+      internalID: -2627979283694549094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 419
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840417671f113c10800000000000000
+      internalID: 2031439092294878344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 397
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a1a5e4216f5ca0800000000000000
+      internalID: -6025990965299140148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 426
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04538b0ea88dfcd10800000000000000
+      internalID: 2148173638266271040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 390
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1798dc19e69172e50800000000000000
+      internalID: 6784419326340204913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 388
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d79d6298f6567ab0800000000000000
+      internalID: -5010721909794564143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 373
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728d44ea31afe9350800000000000000
+      internalID: 6025528313903372327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 392
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa262bb8ea9095cb0800000000000000
+      internalID: -4874854476379168081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 334
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f0235323984f90800000000000000
+      internalID: -6969158643428036254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 329
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7effbd4039bad0280800000000000000
+      internalID: -9075409026151612441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ecf949cb56b350800000000000000
+      internalID: 6032109670997222540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 353
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d25eb6de7977730800000000000000
+      internalID: 3996830240287829381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 347
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddcda9b2cd327560800000000000000
+      internalID: 7309973051723861471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 301
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d06655e86e97a4e0800000000000000
+      internalID: -1970432138589871914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 348
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fabce7ef3c215f0800000000000000
+      internalID: -787351487020028126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 343
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9986715b543fcc0800000000000000
+      internalID: -3678519826547435102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 283
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d12ee429c59e40800000000000000
+      internalID: 5662653266939466433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 292
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9a2daf59930bf20800000000000000
+      internalID: 3436309832004708768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_20
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 293
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d76201f9eac9e0800000000000000
+      internalID: -1600209496240041578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 291
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b460a0941ef1190800000000000000
+      internalID: -7989419510114923631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b50a958f4c1b240800000000000000
+      internalID: 4805838848315644720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 257
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3725ce4a15fcad9f0800000000000000
+      internalID: -442813663776320909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 224
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a104f3d62e8f70800000000000000
+      internalID: 9191326581283465544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 197
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11058de99500e8890800000000000000
+      internalID: -7454019948334526447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 187
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466391e44db9da9c0800000000000000
+      internalID: -3914301164969445788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 237
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096dc938e32ab050800000000000000
+      internalID: 5817001349011564814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 230
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d8f9e3a8ddd1bb0800000000000000
+      internalID: -4963567628466549476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 3 brush (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 183
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c6199ce0c17be0800000000000000
+      internalID: -1481190680014961799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level 3 brush (1)_0: 886170756228036089
+      Level 3 brush (1)_1: 9009774746939507528
+      Level 3 brush (1)_10: -6969158643428036254
+      Level 3 brush (1)_11: -9075409026151612441
+      Level 3 brush (1)_12: 6032109670997222540
+      Level 3 brush (1)_13: 3996830240287829381
+      Level 3 brush (1)_14: 7309973051723861471
+      Level 3 brush (1)_15: -1970432138589871914
+      Level 3 brush (1)_16: -787351487020028126
+      Level 3 brush (1)_17: -3678519826547435102
+      Level 3 brush (1)_18: 5662653266939466433
+      Level 3 brush (1)_19: 3436309832004708768
+      Level 3 brush (1)_2: -2627979283694549094
+      Level 3 brush (1)_20: -1600209496240041578
+      Level 3 brush (1)_21: -7989419510114923631
+      Level 3 brush (1)_22: 4805838848315644720
+      Level 3 brush (1)_23: -442813663776320909
+      Level 3 brush (1)_24: 9191326581283465544
+      Level 3 brush (1)_25: -7454019948334526447
+      Level 3 brush (1)_26: -3914301164969445788
+      Level 3 brush (1)_27: 5817001349011564814
+      Level 3 brush (1)_28: -4963567628466549476
+      Level 3 brush (1)_29: -1481190680014961799
+      Level 3 brush (1)_3: 2031439092294878344
+      Level 3 brush (1)_4: -6025990965299140148
+      Level 3 brush (1)_5: 2148173638266271040
+      Level 3 brush (1)_6: 6784419326340204913
+      Level 3 brush (1)_7: -5010721909794564143
+      Level 3 brush (1)_8: 6025528313903372327
+      Level 3 brush (1)_9: -4874854476379168081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8fdfa179bafdf5445b2d59e2fcf482a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 783129516141546764
+    second: Surface Pro 8 - 288_0
+  - first:
+      213: -4215482422624842831
+    second: Surface Pro 8 - 288_1
+  - first:
+      213: -8526755920747840942
+    second: Surface Pro 8 - 288_2
+  - first:
+      213: 7825799219660812238
+    second: Surface Pro 8 - 288_3
+  - first:
+      213: -8995883463974316308
+    second: Surface Pro 8 - 288_4
+  - first:
+      213: -1128085534101641193
+    second: Surface Pro 8 - 288_5
+  - first:
+      213: -8951386645323876985
+    second: Surface Pro 8 - 288_6
+  - first:
+      213: -8481788249201034479
+    second: Surface Pro 8 - 288_7
+  - first:
+      213: 7776597113486976293
+    second: Surface Pro 8 - 288_8
+  - first:
+      213: -4733140990101540053
+    second: Surface Pro 8 - 288_9
+  - first:
+      213: -6323279462489409920
+    second: Surface Pro 8 - 288_10
+  - first:
+      213: 8852890439110961279
+    second: Surface Pro 8 - 288_11
+  - first:
+      213: -6054757145149004308
+    second: Surface Pro 8 - 288_12
+  - first:
+      213: -2480139732696442960
+    second: Surface Pro 8 - 288_13
+  - first:
+      213: 169135804902409888
+    second: Surface Pro 8 - 288_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_0
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 744
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8dbe452c3eda00800000000000000
+      internalID: 783129516141546764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_1
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 721
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0b8a32199f75c0800000000000000
+      internalID: -4215482422624842831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 694
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25abd51baa0eaa980800000000000000
+      internalID: -8526755920747840942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 657
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf696b6de2da9c60800000000000000
+      internalID: 7825799219660812238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 675
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce61009d6a3382380800000000000000
+      internalID: -8995883463974316308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_5
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 659
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186d9ffe2c3850f0800000000000000
+      internalID: -1128085534101641193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_6
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 642
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7857b46c54946c380800000000000000
+      internalID: -8951386645323876985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_7
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 635
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b3a4a9682aa4a80800000000000000
+      internalID: -8481788249201034479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 588
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52528be5fd50ceb60800000000000000
+      internalID: 7776597113486976293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_9
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 554
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233825c851805eb0800000000000000
+      internalID: -4733140990101540053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_10
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 515
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086bbceb4d23f38a0800000000000000
+      internalID: -6323279462489409920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_11
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 539
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7829a223f8cbda70800000000000000
+      internalID: 8852890439110961279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_12
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 481
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a22ab47e29fba0800000000000000
+      internalID: -6054757145149004308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_13
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 476
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7db4fad06c49dd0800000000000000
+      internalID: -2480139732696442960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surface Pro 8 - 288_14
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 455
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a602025e14e85200800000000000000
+      internalID: 169135804902409888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Surface Pro 8 - 288_0: 783129516141546764
+      Surface Pro 8 - 288_1: -4215482422624842831
+      Surface Pro 8 - 288_10: -6323279462489409920
+      Surface Pro 8 - 288_11: 8852890439110961279
+      Surface Pro 8 - 288_12: -6054757145149004308
+      Surface Pro 8 - 288_13: -2480139732696442960
+      Surface Pro 8 - 288_14: 169135804902409888
+      Surface Pro 8 - 288_2: -8526755920747840942
+      Surface Pro 8 - 288_3: 7825799219660812238
+      Surface Pro 8 - 288_4: -8995883463974316308
+      Surface Pro 8 - 288_5: -1128085534101641193
+      Surface Pro 8 - 288_6: -8951386645323876985
+      Surface Pro 8 - 288_7: -8481788249201034479
+      Surface Pro 8 - 288_8: 7776597113486976293
+      Surface Pro 8 - 288_9: -4733140990101540053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

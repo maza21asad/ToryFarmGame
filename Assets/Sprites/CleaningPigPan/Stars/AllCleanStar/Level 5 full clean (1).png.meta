@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: a830235803ea12244abb3ba74a311e5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9222776779851637711
+    second: Level 5 full clean (1)_0
+  - first:
+      213: -7009783296506838319
+    second: Level 5 full clean (1)_1
+  - first:
+      213: -1278556798377630241
+    second: Level 5 full clean (1)_2
+  - first:
+      213: -5662831256426967982
+    second: Level 5 full clean (1)_3
+  - first:
+      213: -3904693138763253008
+    second: Level 5 full clean (1)_4
+  - first:
+      213: -7394812875579765171
+    second: Level 5 full clean (1)_5
+  - first:
+      213: 2415914488049799115
+    second: Level 5 full clean (1)_6
+  - first:
+      213: -972672168949027493
+    second: Level 5 full clean (1)_7
+  - first:
+      213: -769040600825537699
+    second: Level 5 full clean (1)_8
+  - first:
+      213: 2026450577287975961
+    second: Level 5 full clean (1)_9
+  - first:
+      213: 7654634820641931265
+    second: Level 5 full clean (1)_10
+  - first:
+      213: 34090001357727122
+    second: Level 5 full clean (1)_11
+  - first:
+      213: 1762182099817929966
+    second: Level 5 full clean (1)_12
+  - first:
+      213: 3972886501648314278
+    second: Level 5 full clean (1)_13
+  - first:
+      213: -865037801227359270
+    second: Level 5 full clean (1)_14
+  - first:
+      213: 7935486565332559302
+    second: Level 5 full clean (1)_15
+  - first:
+      213: -2535849713317827341
+    second: Level 5 full clean (1)_16
+  - first:
+      213: 2755947020641985028
+    second: Level 5 full clean (1)_17
+  - first:
+      213: -5761704514544716922
+    second: Level 5 full clean (1)_18
+  - first:
+      213: 7275105593820233646
+    second: Level 5 full clean (1)_19
+  - first:
+      213: 8701787807847509157
+    second: Level 5 full clean (1)_20
+  - first:
+      213: -8178751107568257225
+    second: Level 5 full clean (1)_21
+  - first:
+      213: 5315986649953289925
+    second: Level 5 full clean (1)_22
+  - first:
+      213: -1857730281980373682
+    second: Level 5 full clean (1)_23
+  - first:
+      213: 2927909131934068636
+    second: Level 5 full clean (1)_24
+  - first:
+      213: 4803437701779507280
+    second: Level 5 full clean (1)_25
+  - first:
+      213: -6713985485436910927
+    second: Level 5 full clean (1)_26
+  - first:
+      213: -3156873277251635663
+    second: Level 5 full clean (1)_27
+  - first:
+      213: -3654207508421288412
+    second: Level 5 full clean (1)_28
+  - first:
+      213: -5982572555998549170
+    second: Level 5 full clean (1)_29
+  - first:
+      213: 7484738244606452600
+    second: Level 5 full clean (1)_30
+  - first:
+      213: 6766160512780466169
+    second: Level 5 full clean (1)_31
+  - first:
+      213: 807404682139601731
+    second: Level 5 full clean (1)_32
+  - first:
+      213: 7918157712249456579
+    second: Level 5 full clean (1)_33
+  - first:
+      213: -1476826656265816211
+    second: Level 5 full clean (1)_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_0
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 807
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc327cded92edff70800000000000000
+      internalID: 9222776779851637711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 713
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d24e333b3f38be90800000000000000
+      internalID: -7009783296506838319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 755
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56a8fad57a14ee0800000000000000
+      internalID: -1278556798377630241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 698
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c01b9a9f49961b0800000000000000
+      internalID: -5662831256426967982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 727
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7c1b374ebfc9c0800000000000000
+      internalID: -3904693138763253008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 674
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e459a7ed8506990800000000000000
+      internalID: -7394812875579765171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 608
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8de34d6d078120800000000000000
+      internalID: 2415914488049799115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 644
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d62e6d0df5082f0800000000000000
+      internalID: -972672168949027493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 593
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bd0f9e5a1d355f0800000000000000
+      internalID: -769040600825537699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 596
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914922e30166f1c10800000000000000
+      internalID: 2026450577287975961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 525
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c2b930d9ba3a60800000000000000
+      internalID: 7654634820641931265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 530
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295e155fcac197000800000000000000
+      internalID: 34090001357727122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 498
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec13398847847810800000000000000
+      internalID: 1762182099817929966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 451
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af21b75937822730800000000000000
+      internalID: 3972886501648314278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 484
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbee84f3b4cef3f0800000000000000
+      internalID: -865037801227359270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 462
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c52886bcf2802e60800000000000000
+      internalID: 7935486565332559302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 449
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2ae90f1adeccd0800000000000000
+      internalID: -2535849713317827341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 425
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4026921b6371f3620800000000000000
+      internalID: 2755947020641985028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 423
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6833cc555405a00b0800000000000000
+      internalID: -5761704514544716922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 390
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafbc1f0efd56f460800000000000000
+      internalID: 7275105593820233646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 408
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac639d38e5f2c870800000000000000
+      internalID: 8701787807847509157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 361
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737bf07533d3f7e80800000000000000
+      internalID: -8178751107568257225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 388
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c64f2d51bd26c940800000000000000
+      internalID: 5315986649953289925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 334
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d216b6240836e0800000000000000
+      internalID: -1857730281980373682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f6d8fb7d502a820800000000000000
+      internalID: 2927909131934068636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 353
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058494bd32d39a240800000000000000
+      internalID: 4803437701779507280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_26
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 359
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28761f5c123d2a0800000000000000
+      internalID: -6713985485436910927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 348
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1363e7cea788034d0800000000000000
+      internalID: -3156873277251635663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 329
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42edbf4c1a5a94dc0800000000000000
+      internalID: -3654207508421288412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 291
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba4b415f1a9fca0800000000000000
+      internalID: -5982572555998549170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736c8217c12fd760800000000000000
+      internalID: 7484738244606452600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 257
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7fd81432b36ed50800000000000000
+      internalID: 6766160512780466169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 187
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b0be4d74a743b00800000000000000
+      internalID: 807404682139601731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 237
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c70622bc72f2ed60800000000000000
+      internalID: 7918157712249456579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 5 full clean (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 230
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b27e0bf1418be0800000000000000
+      internalID: -1476826656265816211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level 5 full clean (1)_0: 9222776779851637711
+      Level 5 full clean (1)_1: -7009783296506838319
+      Level 5 full clean (1)_10: 7654634820641931265
+      Level 5 full clean (1)_11: 34090001357727122
+      Level 5 full clean (1)_12: 1762182099817929966
+      Level 5 full clean (1)_13: 3972886501648314278
+      Level 5 full clean (1)_14: -865037801227359270
+      Level 5 full clean (1)_15: 7935486565332559302
+      Level 5 full clean (1)_16: -2535849713317827341
+      Level 5 full clean (1)_17: 2755947020641985028
+      Level 5 full clean (1)_18: -5761704514544716922
+      Level 5 full clean (1)_19: 7275105593820233646
+      Level 5 full clean (1)_2: -1278556798377630241
+      Level 5 full clean (1)_20: 8701787807847509157
+      Level 5 full clean (1)_21: -8178751107568257225
+      Level 5 full clean (1)_22: 5315986649953289925
+      Level 5 full clean (1)_23: -1857730281980373682
+      Level 5 full clean (1)_24: 2927909131934068636
+      Level 5 full clean (1)_25: 4803437701779507280
+      Level 5 full clean (1)_26: -6713985485436910927
+      Level 5 full clean (1)_27: -3156873277251635663
+      Level 5 full clean (1)_28: -3654207508421288412
+      Level 5 full clean (1)_29: -5982572555998549170
+      Level 5 full clean (1)_3: -5662831256426967982
+      Level 5 full clean (1)_30: 7484738244606452600
+      Level 5 full clean (1)_31: 6766160512780466169
+      Level 5 full clean (1)_32: 807404682139601731
+      Level 5 full clean (1)_33: 7918157712249456579
+      Level 5 full clean (1)_34: -1476826656265816211
+      Level 5 full clean (1)_4: -3904693138763253008
+      Level 5 full clean (1)_5: -7394812875579765171
+      Level 5 full clean (1)_6: 2415914488049799115
+      Level 5 full clean (1)_7: -972672168949027493
+      Level 5 full clean (1)_8: -769040600825537699
+      Level 5 full clean (1)_9: 2026450577287975961
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

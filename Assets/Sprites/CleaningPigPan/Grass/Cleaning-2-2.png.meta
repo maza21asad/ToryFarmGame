@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 69ccba00028deec42ae20dd990d235e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5109199953807483587
+    second: Cleaning-2-2_0
+  - first:
+      213: -8866147956572957032
+    second: Cleaning-2-2_1
+  - first:
+      213: 2645749037105495201
+    second: Cleaning-2-2_2
+  - first:
+      213: -4590735391839861583
+    second: Cleaning-2-2_3
+  - first:
+      213: 4093231072040724846
+    second: Cleaning-2-2_4
+  - first:
+      213: -4660284110864303212
+    second: Cleaning-2-2_5
+  - first:
+      213: -5716956877927203158
+    second: Cleaning-2-2_6
+  - first:
+      213: 6913463419062858942
+    second: Cleaning-2-2_7
+  - first:
+      213: -2402635005269012312
+    second: Cleaning-2-2_8
+  - first:
+      213: 7564305696369593689
+    second: Cleaning-2-2_9
+  - first:
+      213: -5312562796984493685
+    second: Cleaning-2-2_10
+  - first:
+      213: 8000909988637028686
+    second: Cleaning-2-2_11
+  - first:
+      213: -2302783328052670944
+    second: Cleaning-2-2_12
+  - first:
+      213: -555505159306813529
+    second: Cleaning-2-2_13
+  - first:
+      213: -6899237587716969483
+    second: Cleaning-2-2_14
+  - first:
+      213: 1014965542031774349
+    second: Cleaning-2-2_15
+  - first:
+      213: -266828396485082742
+    second: Cleaning-2-2_16
+  - first:
+      213: 2439596803959448634
+    second: Cleaning-2-2_17
+  - first:
+      213: 6164342996849651055
+    second: Cleaning-2-2_18
+  - first:
+      213: -1986588749962781628
+    second: Cleaning-2-2_19
+  - first:
+      213: -7547135620389773351
+    second: Cleaning-2-2_20
+  - first:
+      213: 2697192561946635513
+    second: Cleaning-2-2_21
+  - first:
+      213: 1921889777288644631
+    second: Cleaning-2-2_22
+  - first:
+      213: 3602203469307107422
+    second: Cleaning-2-2_23
+  - first:
+      213: -2589808479309518508
+    second: Cleaning-2-2_24
+  - first:
+      213: -6316283728388214888
+    second: Cleaning-2-2_25
+  - first:
+      213: -8353229570145738767
+    second: Cleaning-2-2_26
+  - first:
+      213: -1257451678620000172
+    second: Cleaning-2-2_27
+  - first:
+      213: 7505075147616170240
+    second: Cleaning-2-2_28
+  - first:
+      213: -8525749790915060221
+    second: Cleaning-2-2_29
+  - first:
+      213: 2532085607578010479
+    second: Cleaning-2-2_30
+  - first:
+      213: -8121671456984817442
+    second: Cleaning-2-2_31
+  - first:
+      213: 1766709357808722492
+    second: Cleaning-2-2_32
+  - first:
+      213: -8207074690303599448
+    second: Cleaning-2-2_33
+  - first:
+      213: -3900118919186586821
+    second: Cleaning-2-2_34
+  - first:
+      213: 7877990013629047571
+    second: Cleaning-2-2_35
+  - first:
+      213: 3267927819635729486
+    second: Cleaning-2-2_36
+  - first:
+      213: 2588261313574473836
+    second: Cleaning-2-2_37
+  - first:
+      213: -8160617525368454759
+    second: Cleaning-2-2_38
+  - first:
+      213: 527153219828599913
+    second: Cleaning-2-2_39
+  - first:
+      213: -2096862081560812300
+    second: Cleaning-2-2_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cleaning-2-2_0
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 384
+        width: 97
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2232dc94687e640800000000000000
+      internalID: 5109199953807483587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 406
+        width: 93
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896d96a886d15f480800000000000000
+      internalID: -8866147956572957032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 395
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac31814bb697b420800000000000000
+      internalID: 2645749037105495201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 317
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4429fdb7e6a40c0800000000000000
+      internalID: -4590735391839861583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 360
+        width: 272
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69249029f31ec830800000000000000
+      internalID: 4093231072040724846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 383
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b398bda48535fb0800000000000000
+      internalID: -4660284110864303212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 379
+        width: 55
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae3cee520a49a0b0800000000000000
+      internalID: -5716956877927203158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 352
+        width: 97
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb436ecb95e81ff50800000000000000
+      internalID: 6913463419062858942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 377
+        width: 75
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a09502413028aed0800000000000000
+      internalID: -2402635005269012312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 374
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dc29414ffc9f860800000000000000
+      internalID: 7564305696369593689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 368
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8998c6884cf546b0800000000000000
+      internalID: -5312562796984493685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_11
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 351
+        width: 96
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b5987e31f80f60800000000000000
+      internalID: 8000909988637028686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 331
+        width: 101
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8ab883ceda00e0800000000000000
+      internalID: -2302783328052670944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 336
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afde9430037a48f0800000000000000
+      internalID: -555505159306813529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 347
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb6b1bb7fbf040a0800000000000000
+      internalID: -6899237587716969483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 295
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82d01078c1e51e00800000000000000
+      internalID: 1014965542031774349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 256
+        width: 293
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810583bcf80c4cf0800000000000000
+      internalID: -266828396485082742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 289
+        width: 114
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346e2f1e503bd120800000000000000
+      internalID: 2439596803959448634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 303
+        width: 89
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6de3e8ab452c8550800000000000000
+      internalID: 6164342996849651055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 297
+        width: 96
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c5eabae083e64e0800000000000000
+      internalID: -1986588749962781628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 295
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df58f2c320334790800000000000000
+      internalID: -7547135620389773351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_21
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 278
+        width: 225
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca7a1485a5e6520800000000000000
+      internalID: 2697192561946635513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 243
+        width: 202
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7188eb0e19cebaa10800000000000000
+      internalID: 1921889777288644631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_23
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 282
+        width: 114
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58dab458f89df130800000000000000
+      internalID: 3602203469307107422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_24
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 290
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592672d8e62f0cd0800000000000000
+      internalID: -2589808479309518508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_25
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 270
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f27d40a6d0858a0800000000000000
+      internalID: -6316283728388214888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 241
+        width: 122
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9c2896fd531c80800000000000000
+      internalID: -8353229570145738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_27
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 223
+        width: 125
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e2ad4c52ac8ee0800000000000000
+      internalID: -1257451678620000172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 243
+        width: 163
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001364a4512672860800000000000000
+      internalID: 7505075147616170240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_29
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 262
+        width: 120
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e95ac8cb37ea980800000000000000
+      internalID: -8525749790915060221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_30
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 254
+        width: 99
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63019cc176c32320800000000000000
+      internalID: 2532085607578010479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_31
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 252
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0adff17d60a4f80800000000000000
+      internalID: -8121671456984817442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 235
+        width: 162
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c322c8deccc948810800000000000000
+      internalID: 1766709357808722492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_33
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 207
+        width: 251
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acda575d0d9a1e80800000000000000
+      internalID: -8207074690303599448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_34
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 247
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b336a18b18effd9c0800000000000000
+      internalID: -3900118919186586821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_35
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 249
+        width: 66
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132f629d2e345d60800000000000000
+      internalID: 7877990013629047571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_36
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 226
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e442109a9030a5d20800000000000000
+      internalID: 3267927819635729486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_37
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 196
+        width: 120
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601e7593f95be320800000000000000
+      internalID: 2588261313574473836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_38
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 200
+        width: 114
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9910694f899afbe80800000000000000
+      internalID: -8160617525368454759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_39
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 179
+        width: 97
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c461a7f03d05700800000000000000
+      internalID: 527153219828599913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleaning-2-2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4e495eb0376e2e0800000000000000
+      internalID: -2096862081560812300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cleaning-2-2_0: 5109199953807483587
+      Cleaning-2-2_1: -8866147956572957032
+      Cleaning-2-2_10: -5312562796984493685
+      Cleaning-2-2_11: 8000909988637028686
+      Cleaning-2-2_12: -2302783328052670944
+      Cleaning-2-2_13: -555505159306813529
+      Cleaning-2-2_14: -6899237587716969483
+      Cleaning-2-2_15: 1014965542031774349
+      Cleaning-2-2_16: -266828396485082742
+      Cleaning-2-2_17: 2439596803959448634
+      Cleaning-2-2_18: 6164342996849651055
+      Cleaning-2-2_19: -1986588749962781628
+      Cleaning-2-2_2: 2645749037105495201
+      Cleaning-2-2_20: -7547135620389773351
+      Cleaning-2-2_21: 2697192561946635513
+      Cleaning-2-2_22: 1921889777288644631
+      Cleaning-2-2_23: 3602203469307107422
+      Cleaning-2-2_24: -2589808479309518508
+      Cleaning-2-2_25: -6316283728388214888
+      Cleaning-2-2_26: -8353229570145738767
+      Cleaning-2-2_27: -1257451678620000172
+      Cleaning-2-2_28: 7505075147616170240
+      Cleaning-2-2_29: -8525749790915060221
+      Cleaning-2-2_3: -4590735391839861583
+      Cleaning-2-2_30: 2532085607578010479
+      Cleaning-2-2_31: -8121671456984817442
+      Cleaning-2-2_32: 1766709357808722492
+      Cleaning-2-2_33: -8207074690303599448
+      Cleaning-2-2_34: -3900118919186586821
+      Cleaning-2-2_35: 7877990013629047571
+      Cleaning-2-2_36: 3267927819635729486
+      Cleaning-2-2_37: 2588261313574473836
+      Cleaning-2-2_38: -8160617525368454759
+      Cleaning-2-2_39: 527153219828599913
+      Cleaning-2-2_4: 4093231072040724846
+      Cleaning-2-2_40: -2096862081560812300
+      Cleaning-2-2_5: -4660284110864303212
+      Cleaning-2-2_6: -5716956877927203158
+      Cleaning-2-2_7: 6913463419062858942
+      Cleaning-2-2_8: -2402635005269012312
+      Cleaning-2-2_9: 7564305696369593689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

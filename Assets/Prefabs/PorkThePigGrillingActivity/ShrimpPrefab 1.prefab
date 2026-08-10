@@ -1,0 +1,296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2263487191464520512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5277391061484970683}
+  - component: {fileID: 3527951383774129473}
+  - component: {fileID: 2058253313598261259}
+  - component: {fileID: 1984288422681347896}
+  - component: {fileID: 8145402303022016868}
+  - component: {fileID: 5497813877461521888}
+  - component: {fileID: 8416658589930897055}
+  m_Layer: 5
+  m_Name: ShrimpCooked
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &5277391061484970683
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6657827200541931524}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 491, y: -387}
+  m_SizeDelta: {x: 150, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &3527951383774129473
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_CullTransparentMesh: 1
+--- !u!114 &2058253313598261259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: d5093c8754eb03d4db392f9e035e23e4, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &1984288422681347896
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &8145402303022016868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 507375fdd2ecee143962d1aefa7f0308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableGrill
+  grillType: Shrimp
+  isCooked: 1
+  isOnPlate: 0
+  owningPlate: {fileID: 0}
+  pendingPulse: 1
+  pendingPulseSpeed: 3
+  pendingPulseAmount: 0.243
+  alphaThreshold: 0.1
+  draggingSize: {x: 0, y: 0}
+  draggingOffset: {x: 0, y: 0}
+--- !u!114 &5497813877461521888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58032823fa1e73e46801ba5c41dcd386, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BurnerGrill
+  burnDuration: 5
+  burnAnimation:
+    frames:
+    - {fileID: 21300000, guid: 5eda3a25ff8cc7942bf5e8a7aeafaf1a, type: 3}
+    - {fileID: 21300000, guid: e8c115161691dfe4a8b5de5b27addaf8, type: 3}
+    - {fileID: 21300000, guid: 4a5221dea1f5c2c4098ca2edecf82e5e, type: 3}
+    - {fileID: 21300000, guid: dae2f7754a7803f4db4b410a4abcc0c9, type: 3}
+    - {fileID: 21300000, guid: e3b969d4d5e7e41488557f2877cf71bf, type: 3}
+    fps: 1
+  overlayWidth: 150
+  overlayHeight: 120
+  overlayOffset: {x: 0, y: 0}
+--- !u!114 &8416658589930897055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2263487191464520512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcce241e8b9b1b14c970d10abaca5628, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableBurnedGrill
+--- !u!1 &9035014683400241939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6657827200541931524}
+  - component: {fileID: 1962138760969484449}
+  - component: {fileID: 5898315939865618751}
+  - component: {fileID: 906920611778608958}
+  - component: {fileID: 4747078712953529570}
+  - component: {fileID: 790558470815030291}
+  m_Layer: 5
+  m_Name: ShrimpPrefab 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6657827200541931524
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035014683400241939}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -12959.999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5277391061484970683}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 506, y: -391}
+  m_SizeDelta: {x: 150, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1962138760969484449
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035014683400241939}
+  m_CullTransparentMesh: 1
+--- !u!114 &5898315939865618751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035014683400241939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 6961a260655480349a6b872597ca13aa, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &906920611778608958
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035014683400241939}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &4747078712953529570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035014683400241939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 507375fdd2ecee143962d1aefa7f0308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableGrill
+  grillType: Shrimp
+  isCooked: 0
+  isOnPlate: 0
+  owningPlate: {fileID: 0}
+  pendingPulse: 0
+  pendingPulseSpeed: 3
+  pendingPulseAmount: 0.07
+  alphaThreshold: 0.1
+  draggingSize: {x: 0, y: 0}
+  draggingOffset: {x: 0, y: 0}
+--- !u!114 &790558470815030291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035014683400241939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0053b96521c2ffd4dad06dbea7f76f1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Grillcooker
+  cookingAnimation:
+    frames:
+    - {fileID: 21300000, guid: 13b4bec529e33de44a415436aeaa9c49, type: 3}
+    - {fileID: 21300000, guid: 142705bdf61f9784f8120c13b453abc9, type: 3}
+    - {fileID: 21300000, guid: f5e1880d2deddaf4ab98955f61fac946, type: 3}
+    - {fileID: 21300000, guid: a9ba17aee3c107d45a36882b0ee853ed, type: 3}
+    - {fileID: 21300000, guid: 0e8a7c80e3125f442bb4c4f6b6a4b1e2, type: 3}
+    - {fileID: 21300000, guid: 4a43050ed39abe949b8a29d37c0a261b, type: 3}
+    - {fileID: 21300000, guid: 880e711d355a2304a9c0635a75b8e7e3, type: 3}
+    - {fileID: 21300000, guid: d5093c8754eb03d4db392f9e035e23e4, type: 3}
+    fps: 1
+  cookDuration: 15
+  cookedObject: {fileID: 2263487191464520512}
+  cookingSize: {x: 150, y: 120}
+  cookedSize: {x: 150, y: 120}
+  pulseSpeed: 3
+  pulseAmount: 0.07
+  stove: {fileID: 0}
+  slotIndex: -1
+  rootCanvas: {fileID: 0}

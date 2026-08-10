@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 7def85288ab25104bb4d5fccbb09d21e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5399965291367672661
+    second: Level 2 cut hay_0
+  - first:
+      213: -8192704093438035446
+    second: Level 2 cut hay_1
+  - first:
+      213: 5186443806073526990
+    second: Level 2 cut hay_2
+  - first:
+      213: -5950794317223698695
+    second: Level 2 cut hay_3
+  - first:
+      213: 3365133438928467171
+    second: Level 2 cut hay_4
+  - first:
+      213: -5242560189060294641
+    second: Level 2 cut hay_5
+  - first:
+      213: 816293389633350190
+    second: Level 2 cut hay_6
+  - first:
+      213: -329417412262976484
+    second: Level 2 cut hay_7
+  - first:
+      213: -1345481048862720449
+    second: Level 2 cut hay_8
+  - first:
+      213: -6348111379280628933
+    second: Level 2 cut hay_9
+  - first:
+      213: 2960969840380535266
+    second: Level 2 cut hay_10
+  - first:
+      213: 980146933466634820
+    second: Level 2 cut hay_11
+  - first:
+      213: 8389979282513008013
+    second: Level 2 cut hay_12
+  - first:
+      213: -5911383879921342402
+    second: Level 2 cut hay_13
+  - first:
+      213: 1775568266509779625
+    second: Level 2 cut hay_14
+  - first:
+      213: -5751847435080816640
+    second: Level 2 cut hay_15
+  - first:
+      213: -7801878777427525379
+    second: Level 2 cut hay_16
+  - first:
+      213: 1745584836646466404
+    second: Level 2 cut hay_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level 2 cut hay_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 440
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ba86f72d780fa40800000000000000
+      internalID: 5399965291367672661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 397
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abcb8a80bad4e80800000000000000
+      internalID: -8192704093438035446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 419
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca9984a923f9f740800000000000000
+      internalID: 5186443806073526990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_3
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 427
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed77ed8188a6da0800000000000000
+      internalID: -5950794317223698695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 380
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4be11980b53be20800000000000000
+      internalID: 3365133438928467171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_5
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 382
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d479c84fae37b0800000000000000
+      internalID: -5242560189060294641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_6
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 386
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a6891538e045b00800000000000000
+      internalID: 816293389633350190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 325
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ac3fdb9cad6bf0800000000000000
+      internalID: -329417412262976484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 342
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e748e5d14e35de0800000000000000
+      internalID: -1345481048862720449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 301
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33fc53955af6e7a0800000000000000
+      internalID: -6348111379280628933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_10
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 327
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e686c16a771920800000000000000
+      internalID: 2960969840380535266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 304
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a97f4617e2a9d00800000000000000
+      internalID: 980146933466634820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 282
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85131794b13f6470800000000000000
+      internalID: 8389979282513008013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 289
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38615a5eab86fda0800000000000000
+      internalID: -5911383879921342402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 229
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a285c75ee514a810800000000000000
+      internalID: 1775568266509779625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 251
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00824cd7b355d20b0800000000000000
+      internalID: -5751847435080816640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_16
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 197
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df006ca86982ab390800000000000000
+      internalID: -7801878777427525379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level 2 cut hay_17
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 186
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463fe911920993810800000000000000
+      internalID: 1745584836646466404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level 2 cut hay_0: 5399965291367672661
+      Level 2 cut hay_1: -8192704093438035446
+      Level 2 cut hay_10: 2960969840380535266
+      Level 2 cut hay_11: 980146933466634820
+      Level 2 cut hay_12: 8389979282513008013
+      Level 2 cut hay_13: -5911383879921342402
+      Level 2 cut hay_14: 1775568266509779625
+      Level 2 cut hay_15: -5751847435080816640
+      Level 2 cut hay_16: -7801878777427525379
+      Level 2 cut hay_17: 1745584836646466404
+      Level 2 cut hay_2: 5186443806073526990
+      Level 2 cut hay_3: -5950794317223698695
+      Level 2 cut hay_4: 3365133438928467171
+      Level 2 cut hay_5: -5242560189060294641
+      Level 2 cut hay_6: 816293389633350190
+      Level 2 cut hay_7: -329417412262976484
+      Level 2 cut hay_8: -1345481048862720449
+      Level 2 cut hay_9: -6348111379280628933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

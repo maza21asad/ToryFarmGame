@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1652795925974454341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4292273620091020079}
+  - component: {fileID: 6701745972008040489}
+  - component: {fileID: 8543945775267193804}
+  - component: {fileID: 7297226791154727275}
+  - component: {fileID: 5423412469071581184}
+  - component: {fileID: 4305799766068315872}
+  - component: {fileID: 3406781415095610333}
+  m_Layer: 5
+  m_Name: RedGrillPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &4292273620091020079
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 12959.999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8321113726445185127}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 150, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &6701745972008040489
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_CullTransparentMesh: 1
+--- !u!114 &8543945775267193804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 9677f7beab8ca984da83f85dc052b643, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &7297226791154727275
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &5423412469071581184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 507375fdd2ecee143962d1aefa7f0308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableGrill
+  grillType: 
+  isCooked: 0
+  isOnPlate: 0
+  owningPlate: {fileID: 0}
+  pendingPulse: 0
+  pendingPulseSpeed: 3
+  pendingPulseAmount: 0.07
+  alphaThreshold: 0.1
+  draggingSize: {x: 0, y: 0}
+  draggingOffset: {x: 0, y: 0}
+--- !u!114 &4305799766068315872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58032823fa1e73e46801ba5c41dcd386, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BurnerGrill
+  burnDuration: 5
+  burnAnimation:
+    frames:
+    - {fileID: 21300000, guid: 1a6633e8064c9fd4d9d0fa55717d26b8, type: 3}
+    - {fileID: 21300000, guid: 80530cc2cedd009449223f10a6eef828, type: 3}
+    - {fileID: 21300000, guid: 3d9d7095596d7704a8399fb81731ea91, type: 3}
+    - {fileID: 21300000, guid: a389438ebc068a842ac8b60adc291bb7, type: 3}
+    - {fileID: 21300000, guid: 89600b1e027036c4780d2e0adb6abdb0, type: 3}
+    - {fileID: 21300000, guid: 7b86aa70af312ef4b98a89cceaeb623f, type: 3}
+    fps: 12
+  overlayWidth: 150
+  overlayHeight: 120
+  overlayOffset: {x: 0, y: 0}
+  burnedSprite: {fileID: 21300000, guid: 7b86aa70af312ef4b98a89cceaeb623f, type: 3}
+--- !u!114 &3406781415095610333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1652795925974454341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcce241e8b9b1b14c970d10abaca5628, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableBurnedGrill
+--- !u!1 &5772775244776626910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8321113726445185127}
+  - component: {fileID: 6945309188233610640}
+  - component: {fileID: 932425981642982100}
+  - component: {fileID: 158980759078978235}
+  - component: {fileID: 9141413797753750535}
+  - component: {fileID: 5433219395879971852}
+  m_Layer: 5
+  m_Name: RedMeatPrefab 1 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &8321113726445185127
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5772775244776626910}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -12959.999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4292273620091020079}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 585.8394, y: -469.01947}
+  m_SizeDelta: {x: 150, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &6945309188233610640
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5772775244776626910}
+  m_CullTransparentMesh: 1
+--- !u!114 &932425981642982100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5772775244776626910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 080424d4e37aafc4bb86dce6910ff021, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!225 &158980759078978235
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5772775244776626910}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!114 &9141413797753750535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5772775244776626910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 507375fdd2ecee143962d1aefa7f0308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DraggableGrill
+  grillType: RedMeat
+  isCooked: 0
+  isOnPlate: 0
+  owningPlate: {fileID: 0}
+  pendingPulse: 0
+  pendingPulseSpeed: 3
+  pendingPulseAmount: 0.07
+  alphaThreshold: 0.1
+  draggingSize: {x: 150, y: 120}
+  draggingOffset: {x: 0, y: 0}
+--- !u!114 &5433219395879971852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5772775244776626910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0053b96521c2ffd4dad06dbea7f76f1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GrillCooker
+  cookingAnimation:
+    frames:
+    - {fileID: 21300000, guid: 7cd05e137e6b6204186b667f535e17b6, type: 3}
+    - {fileID: 21300000, guid: 3a7e9d88271931a41ade1951b971d652, type: 3}
+    - {fileID: 21300000, guid: e73424c80f3c7eb4bad5aa61b88b7b8a, type: 3}
+    - {fileID: 21300000, guid: 2e55c681a095ed442bfd7e6c613663c5, type: 3}
+    - {fileID: 21300000, guid: 6e15b92f7dfc28c4590435c6ac92f0cf, type: 3}
+    - {fileID: 21300000, guid: 8503770301b06594c96e160ef87dc09a, type: 3}
+    - {fileID: 21300000, guid: a8071cd90a27c8944b45fbd30f5a296b, type: 3}
+    - {fileID: 21300000, guid: cffecb411c032194d95b91bdf68166a1, type: 3}
+    - {fileID: 21300000, guid: 99852926f60559e44839ba0c4c0e19c4, type: 3}
+    fps: 1
+  cookDuration: 5
+  cookedObject: {fileID: 1652795925974454341}
+  cookingSize: {x: 150, y: 120}
+  cookedSize: {x: 150, y: 120}
+  pulseSpeed: 3
+  pulseAmount: 0.07
+  stove: {fileID: 0}
+  slotIndex: -1
+  rootCanvas: {fileID: 0}
