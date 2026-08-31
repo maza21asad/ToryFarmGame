@@ -40,25 +40,25 @@ Unity, C#, PlayFab, TextMeshPro, Unity UI, Unity Animation System
 ## Game Pictures
 
 <p align="center">
-  <img src="Media/T1.png" width="18%">
-  <img src="Media/T2.png" width="18%">
-  <img src="Media/T3.png" width="18%">
-  <img src="Media/T4.png" width="18%">
-  <img src="Media/T5.png" width="18%">
+  <img src="Media/T1.jpeg" width="18%">
+  <img src="Media/T2.jpeg" width="18%">
+  <img src="Media/T3.jpeg" width="18%">
+  <img src="Media/T4.jpeg" width="18%">
+  <img src="Media/T5.jpeg" width="18%">
 </p>
 
 <p align="center">
-  <img src="Media/T6.png" width="18%">
-  <img src="Media/T7.png" width="18%">
-  <img src="Media/T8.png" width="18%">
-  <img src="Media/T9.png" width="18%">
-  <img src="Media/T10.png" width="18%">
+  <img src="Media/T6.jpeg" width="18%">
+  <img src="Media/T7.jpeg" width="18%">
+  <img src="Media/T8.jpeg" width="18%">
+  <img src="Media/T9.jpeg" width="18%">
+  <img src="Media/T10.jpeg" width="18%">
 </p>
 
 <p align="center">
-  <img src="Media/T11.png" width="18%">
-  <img src="Media/T12.png" width="18%">
-  <img src="Media/T13.png" width="18%">
-  <img src="Media/T14.png" width="18%">
-  <img src="Media/T15.png" width="18%">
+  <img src="Media/T11.jpeg" width="18%">
+  <img src="Media/T12.jpeg" width="18%">
+  <img src="Media/T13.jpeg" width="18%">
+  <img src="Media/T14.jpeg" width="18%">
+  <img src="Media/T15.jpeg" width="18%">
 </p>
