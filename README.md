@@ -2,6 +2,32 @@
 
 Tory Adventure is a collection of interactive farm-themed mini-games developed with Unity. The project combines educational activities, farming, racing, painting, cooking, vehicle repair, obstacle challenges, and animal care into a single interactive experience.
 
+## Game Pictures
+
+<p align="center">
+  <img src="Media/T1.jpeg" width="18%">
+  <img src="Media/T2.jpeg" width="18%">
+  <img src="Media/T3.jpeg" width="18%">
+  <img src="Media/T4.jpeg" width="18%">
+  <img src="Media/T5.jpeg" width="18%">
+</p>
+
+<p align="center">
+  <img src="Media/T6.jpeg" width="18%">
+  <img src="Media/T7.jpeg" width="18%">
+  <img src="Media/T8.jpeg" width="18%">
+  <img src="Media/T9.jpeg" width="18%">
+  <img src="Media/T10.jpeg" width="18%">
+</p>
+
+<p align="center">
+  <img src="Media/T11.jpeg" width="18%">
+  <img src="Media/T12.jpeg" width="18%">
+  <img src="Media/T13.jpeg" width="18%">
+  <img src="Media/T14.jpeg" width="18%">
+  <img src="Media/T15.jpeg" width="18%">
+</p>
+
 ## Game System
 
 - Central game and menu management
@@ -36,29 +62,3 @@ Tory Adventure is a collection of interactive farm-themed mini-games developed w
 ## Technology
 
 Unity, C#, PlayFab, TextMeshPro, Unity UI, Unity Animation System
-
-## Game Pictures
-
-<p align="center">
-  <img src="Media/T1.jpeg" width="18%">
-  <img src="Media/T2.jpeg" width="18%">
-  <img src="Media/T3.jpeg" width="18%">
-  <img src="Media/T4.jpeg" width="18%">
-  <img src="Media/T5.jpeg" width="18%">
-</p>
-
-<p align="center">
-  <img src="Media/T6.jpeg" width="18%">
-  <img src="Media/T7.jpeg" width="18%">
-  <img src="Media/T8.jpeg" width="18%">
-  <img src="Media/T9.jpeg" width="18%">
-  <img src="Media/T10.jpeg" width="18%">
-</p>
-
-<p align="center">
-  <img src="Media/T11.jpeg" width="18%">
-  <img src="Media/T12.jpeg" width="18%">
-  <img src="Media/T13.jpeg" width="18%">
-  <img src="Media/T14.jpeg" width="18%">
-  <img src="Media/T15.jpeg" width="18%">
-</p>
